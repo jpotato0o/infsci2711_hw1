@@ -1,4 +1,4 @@
-package edu.pitt.cis.infsci2711.tutorial.rest;
+package edu.pitt.sis.infsci2711.tutorial.rest;
 
 import java.util.ArrayList;
 import java.util.List;

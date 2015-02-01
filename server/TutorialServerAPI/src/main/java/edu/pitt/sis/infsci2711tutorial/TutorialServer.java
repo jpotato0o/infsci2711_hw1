@@ -1,4 +1,4 @@
-package edu.pitt.cis.infsci2711tutorial;
+package edu.pitt.sis.infsci2711tutorial;
 
 import edu.pitt.sis.infsci2711.multidbs.utils.JerseyJettyServer;
 
